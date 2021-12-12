@@ -2,13 +2,13 @@
 opencore configuration for latitude5290 
 
 ## credits: 
-https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER for ACPI patches, graphics deviceproperties patches
-https://dortania.github.io/OpenCore-Install-Guide/ 
-AirportItlwm
-Lilu
-VirtualSMC
-VoodooInput
-AppleALC
+* https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER for ACPI patches, graphics deviceproperties patches
+* https://dortania.github.io/OpenCore-Install-Guide/ 
+* AirportItlwm
+* Lilu
+* VirtualSMC
+* VoodooInput
+* AppleALC
 
 ## installation
 copy OC folder to your ESP, run opencore configurator to generate new SMBIOS( SN, ROM, UUID, MLB sn )
