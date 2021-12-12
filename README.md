@@ -35,6 +35,7 @@ copy OC folder to your ESP, run opencore configurator to generate new SMBIOS( SN
 * touchscreen
 * fingerprint reader(if your machine has) 
 * cameras
+* thunderbolt hotplug 
 * handoff/airdrop(can be working if you replace the nic) 
 * you have to undock and dock the keyboard after a reboot or cold boot before itll start working for some reason
 * ... 
