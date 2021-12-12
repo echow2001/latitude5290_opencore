@@ -1,5 +1,6 @@
 # latitude5290_opencore
-opencore configuration for latitude5290 
+opencore configuration for Dell Latitude 5290 2 in 1 hackintosh 
+
 
 ## credits: 
 * https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER for ACPI patches, graphics deviceproperties patches
