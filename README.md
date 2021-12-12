@@ -1,9 +1,9 @@
-# latitude5290_opencore
+# Dell Latitude 5290 2 in 1 OpenCore Configuration
 opencore configuration for Dell Latitude 5290 2 in 1 hackintosh 
 
 
 ## credits: 
-* https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER for ACPI patches, graphics deviceproperties patches
+* https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER for some ACPI patches, graphics deviceproperties patches for kabylake 620 graphics
 * https://dortania.github.io/OpenCore-Install-Guide/ 
 * AirportItlwm
 * Lilu
